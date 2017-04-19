@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b898e52f-2633-4ff5-9175-96caf204721d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/HTTPartyExample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/.idea/runConfigurations/Development__my_first_app.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/.idea/runConfigurations/Production__my_first_app.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/.idea/runConfigurations/spec__my_first_app.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/.idea/runConfigurations/test__my_first_app.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/app/assets/javascripts/courses.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/app/assets/stylesheets/courses.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/app/controllers/courses_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/app/helpers/courses_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/app/models/coursera.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/app/views/courses/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my_first_app/test/controllers/courses_controller_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Ruby-on-Rails-an-Introduction.iml" afterPath="$PROJECT_DIR$/.idea/Ruby-on-Rails-an-Introduction.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_first_app/.idea/my_first_app.iml" afterPath="$PROJECT_DIR$/my_first_app/.idea/my_first_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_first_app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/my_first_app/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_first_app/Gemfile" afterPath="$PROJECT_DIR$/my_first_app/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_first_app/Gemfile.lock" afterPath="$PROJECT_DIR$/my_first_app/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_first_app/config/routes.rb" afterPath="$PROJECT_DIR$/my_first_app/config/routes.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +20,8 @@
       <file leaf-file-name="HTTPartyExample.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTTPartyExample.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -90,6 +72,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -136,12 +119,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
@@ -354,6 +336,9 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b898e52f-2633-4ff5-9175-96caf204721d" name="Default" comment="" />
@@ -366,7 +351,9 @@
       <workItem from="1492511496873" duration="791000" />
       <workItem from="1492586061488" duration="893000" />
       <workItem from="1492589100239" duration="7000" />
-      <workItem from="1492593214156" duration="7000" />
+      <workItem from="1492593214156" duration="414000" />
+      <workItem from="1492593648945" duration="11000" />
+      <workItem from="1492593785964" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Finished HTTParty">
       <created>1492587766195</created>
@@ -375,11 +362,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492587766195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished CSS, Parameters &amp; Root Path">
+      <created>1492593279829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1492593279829</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2266000" />
+    <option name="totallyTimeSpent" value="2692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1342" extended-state="6" />
@@ -411,7 +405,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished HTTParty" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished HTTParty" />
+    <MESSAGE value="Finished CSS, Parameters &amp; Root Path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished CSS, Parameters &amp; Root Path" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -437,7 +432,23 @@
     <entry file="file://$PROJECT_DIR$/HTTPartyExample.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="24" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTPartyExample.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTTPartyExample.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding />
         </state>
       </provider>
