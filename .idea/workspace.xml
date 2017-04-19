@@ -353,7 +353,7 @@
       <workItem from="1492589100239" duration="7000" />
       <workItem from="1492593214156" duration="414000" />
       <workItem from="1492593648945" duration="11000" />
-      <workItem from="1492593785964" duration="8000" />
+      <workItem from="1492593785964" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Finished HTTParty">
       <created>1492587766195</created>
@@ -369,14 +369,22 @@
       <option name="project" value="LOCAL" />
       <updated>1492593279829</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished CSS, Parameters &amp; Root Path">
+      <created>1492593797705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1492593797705</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2692000" />
+    <option name="totallyTimeSpent" value="2702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1342" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
